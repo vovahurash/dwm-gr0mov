@@ -43,6 +43,7 @@ static const char *const autostart[] = {
     "nitrogen", "--restore", NULL,
     "synergy", NULL,
     "slstatus", NULL,
+    "nm-applet", NULL,
     NULL /* terminate */
 };
 
